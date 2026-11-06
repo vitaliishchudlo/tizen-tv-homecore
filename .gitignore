@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# секрети та локальний стан
+.env
+token.txt
+smartthings_token.txt
+yt_screen_id.txt
+chill_saved.json
+
+# локальні інструменти
+sdb_dl/
